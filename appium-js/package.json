@@ -1,0 +1,14 @@
+{
+    "name": "mobile-regression-tests",
+    "version": "1.0.0",
+    "description": "Mobile tests",
+    "main": "index.js",
+    "license": "ISC",
+    "type": "module",
+    "devDependencies": {
+    },
+    "scripts": {
+    },
+    "dependencies": {
+    }
+  }
